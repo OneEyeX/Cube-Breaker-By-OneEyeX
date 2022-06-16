@@ -79,11 +79,12 @@ Cube Breaker is a game in which the player breaks cubes with a blade controlled 
 
  
 ### Built With
- 
-* [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
-* [CSS](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade)
+
 * [JS](https://javascript.com/) 
 * [jQuery](https://jquery.com/)
+* [CSS](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade)
+* [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
