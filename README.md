@@ -18,7 +18,7 @@
     <img src="img/cube-3d.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Currency Converter</h3>
+  <h3 align="center">Cube Breaker</h3>
 
   <p align="center">
    Cube Breaker is a game in which the player breaks cubes with a blade controlled via the mouse swipe (PC) or the touch screen (phone or tablet). As the cube is thrown onto the screen, the player swipes their mouse (PC) or finger (phone or tablet) across the screen to create a slicing motion, attempting to break the cube.
